@@ -4,7 +4,7 @@ category: Apple
 title: Apple Platform Technology
 tagline: by 明不知昔
 tags: 
-  - 个人博客搭建
+  - Apple
 published: true
 ---
 
