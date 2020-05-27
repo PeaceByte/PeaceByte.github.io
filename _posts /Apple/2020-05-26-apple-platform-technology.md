@@ -1,7 +1,13 @@
 ---
-permalink: /ApplePlatformTechnology/
+layout: post
+category: Apple
+title: Apple Platform Technology
+tagline: by 明不知昔
+tags: 
+  - 个人博客搭建
+published: true
 ---
-# Apple Platform Technology
+
 
 ## Platforms
 
