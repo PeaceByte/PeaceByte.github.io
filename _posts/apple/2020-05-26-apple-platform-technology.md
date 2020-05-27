@@ -4,8 +4,11 @@ date: 2013-12-24 23:29:53
 categories:
 - Apple
 tags:
-- Apple
+- Foo
+- Bar
+- Baz
 ---
+
 
 ## Platforms
 
